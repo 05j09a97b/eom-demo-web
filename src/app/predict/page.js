@@ -90,7 +90,7 @@ export default function PredictPage() {
         <input
           name="BMI"
           type="number"
-          step="0.1"
+          step="0.01"
           placeholder="BMI"
           required
           className="border p-2 rounded"
